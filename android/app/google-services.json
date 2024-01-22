@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332042047199",
+    "project_id": "gopotu-2d48c",
+    "storage_bucket": "gopotu-2d48c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332042047199:android:949dbc072cf6d115aee36a",
+        "android_client_info": {
+          "package_name": "com.gopotu.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332042047199-bas09vkpap3b06lbsoalhv398fltqkuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACgy8FpEpte1h8SAuun1SdkZt1pApxqIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332042047199-bas09vkpap3b06lbsoalhv398fltqkuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

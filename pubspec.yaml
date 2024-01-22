@@ -1,0 +1,92 @@
+name: go_potu_user
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 0.0.4+13
+
+environment:
+  sdk: ">=2.12.0 <4.0.0"
+
+dependencies:
+  cached_network_image: ^3.3.0
+  carousel_slider: ^4.0.0
+  connectivity_plus: ^5.0.2
+  countdown_progress_indicator: ^0.1.2
+  cron: null
+  cupertino_icons: ^1.0.2
+  device_info_plus: ^9.1.1
+  dotted_border: ^2.0.0+1
+  file: ^7.0.0
+  firebase_core: null
+  firebase_core_platform_interface: ^5.0.0
+  firebase_database: null
+  firebase_messaging: ^14.6.7
+  flutter:
+    sdk: flutter
+  flutter_google_places: ^0.3.0
+  flutter_html: ^3.0.0-beta.2
+  #  flutter_swiper:
+  card_swiper: ^3.0.1
+  flutter_local_notifications: ^16.2.0
+  flutter_share: ^2.0.0
+  flutter_staggered_animations: ^1.0.0
+  # flutter_staggered_grid_view: ^0.7.0
+  flutter_staggered_grid_view: ^0.4.1
+  fluttertoast: ^8.0.8
+  font_awesome_flutter: ^10.5.0
+  geocoding: null
+  geolocator: ^10.0.1
+  get: ^4.3.8
+  google_api_availability: ^5.0.0
+  google_fonts: ^4.0.4
+  google_maps_flutter: ^2.1.1
+  google_place: null
+  hive: ^2.0.4
+  http: ^0.13.1
+  intl: ^0.19.0
+  location: ^5.0.3
+  mime: null
+  modal_bottom_sheet: ^3.0.0-pre
+  path_provider: ^2.0.1
+  paytm_allinonesdk: ^1.1.4
+  permission_handler: ^11.0.1
+  photo_view: ^0.14.0
+  pull_to_refresh: ^2.0.0
+  rating_dialog: ^2.0.3
+  show_more_text_popup: ^0.3.0
+  skeletons: ^0.0.3
+  store_redirect: ^2.0.1
+  syncfusion_flutter_gauges: null
+  timeline_tile: ^2.0.0
+  toggle_switch: ^2.1.0
+  url_launcher: ^6.0.20
+  us_states: ^1.2.0
+  webview_flutter: ^4.4.2
+  image_picker: ^1.0.4
+  dio: ^5.3.4
+  order_tracker: ^0.0.2
+  lottie: ^2.7.0
+  order_tracker_zen: ^1.0.0+4
+  flutter_spinkit: ^5.2.0
+  html_unescape: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/temporary/
+
+  # example:
+  fonts:
+    - family: Proxima
+      fonts:
+        - asset: assets/Proxima Nova Font.otf
+    - family: Poppins
+      fonts:
+        - asset: assets/Poppins/Poppins-Regular.ttf
